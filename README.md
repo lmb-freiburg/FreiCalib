@@ -3,7 +3,7 @@
 This is the calibration software developed in conjunction with our recent publication
 
     @TechReport{Freipose2020,
-        author    = {Christian Zimmermann, Artur Schneider, Mansour Alyahyay, Ilka Diester and Thomas Brox},
+        author    = {Christian Zimmermann, Artur Schneider, Mansour Alyahyay, Thomas Brox and Ilka Diester},
         title     = {FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces},
         year      = {2020},
         url          = {"https://lmb.informatik.uni-freiburg.de/projects/freipose/"}
