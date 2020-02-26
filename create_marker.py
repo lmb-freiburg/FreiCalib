@@ -6,7 +6,7 @@
 """
 FROM THE ORIGINAL LICENSE FILE
 
-Copyright (c) 2014, Paul Furgale, Jérôme Maye and Jörn Rehder, Autonomous Systems Lab,
+Copyright (c) 2014, Paul Furgale, Jerome Maye and Joern Rehder, Autonomous Systems Lab,
                     ETH Zurich, Switzerland
 Copyright (c) 2014, Thomas Schneider, Skybotix AG, Switzerland
 All rights reserved.
